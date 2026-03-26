@@ -1,4 +1,4 @@
-# CitiBike Strategic Dashboard Analysis
+# CitiBike Strategic Dashboard Analysis  
 **Project Type:** Descriptive Analysis  
 **Role:** Lead Analyst  
 **Timeline:** 2 Months  
@@ -9,8 +9,8 @@
 ---
 
 ## Live Project Links
-- Live Dashboard: https://citibike-4app9pxamtuuyrqmhstmttp.streamlit.app/
-- GitHub Repository: https://github.com/Chase-Bjerke/CitiBike
+- <a href="https://citibike-4app9pxamtuuyrqmhstmttp.streamlit.app/" target="_blank">Live Dashboard</a>  
+- <a href="https://github.com/Chase-Bjerke/CitiBike" target="_blank">GitHub Repository</a>
 
 ---
 
@@ -28,18 +28,18 @@ I then created a GitHub repository, set up SSH authentication, and built a clean
 ---
 
 ## Business Questions
-1. Which stations experience the highest demand throughout the year?  
-2. How do temperature and seasonal weather patterns influence ridership?  
-3. Where do trip clusters and geographic hotspots occur?  
-4. What do the most common routes reveal about system pressure?  
-5. How do trip durations differ between rider types?  
+1. Which stations experience the highest demand throughout the year  
+2. How do temperature and seasonal weather patterns influence ridership  
+3. Where do trip clusters and geographic hotspots occur  
+4. What do the most common routes reveal about system pressure  
+5. How do trip durations differ between rider types  
 
 ---
 
 ## Data Cleaning and Preparation
 CitiBike provides multiple years of trip data. I selected 2022, the most recent full year, and merged all twelve monthly CSVs into a single dataset.
 
-Key cleaning steps included:  
+Key cleaning steps included:
 - Converting date fields to proper datetime objects  
 - Converting NOAA temperatures from Celsius to Fahrenheit  
 - Standardizing station names and coordinates using a reference table  
@@ -52,13 +52,19 @@ Key cleaning steps included:
 
 These transformations produced a clean, analysis‑ready dataset.
 
-### Before / After
-Add your images here:
+---
 
-```
-![Before Cleaning](images/before.png)
-![After Cleaning](images/after.png)
-```
+## Before / After
+
+### Raw Data Head
+<a href="Images/CitiBike_Raw_head().png" target="_blank">
+  <img src="Images/CitiBike_Raw_head().png" width="700">
+</a>
+
+### Clean Data Head
+<a href="Images/CitiBike_Clean_head().png" target="_blank">
+  <img src="Images/CitiBike_Clean_head().png" width="700">
+</a>
 
 ---
 
@@ -67,32 +73,30 @@ I created focused slices of the data—daily ridership, station demand, and ride
 
 A major insight emerged when comparing daily ridership with temperature. Viewed separately, both showed similar seasonal shapes. Combined in a dual‑axis chart, the relationship became clear.
 
-Add visuals here:
-
-```
-![Daily Rides vs Temperature](images/rides_temp_dual_axis.png)
-```
+### Daily Rides vs Temperature
+<a href="Images/Line_Chart_CitiBike_Daily_Rides_vs_Weather.png" target="_blank">
+  <img src="Images/Line_Chart_CitiBike_Daily_Rides_vs_Weather.png" width="750">
+</a>
 
 ---
 
 ## Visualization Development
 I used a tiered approach to build the visuals:
-
 - Matplotlib for quick EDA  
 - Seaborn for cleaner styling  
 - Plotly for interactive dashboard visuals  
 
-Key visuals included:  
-- Dual‑axis line chart (temperature vs. ridership)  
-- Horizontal bar chart (top stations)  
-- Box plot (trip duration differences between rider types)  
+### Key Visuals
 
-Add visuals here:
+#### Top 20 Stations
+<a href="Images/CitiBike_Top_20_Stations_Part2.png" target="_blank">
+  <img src="Images/CitiBike_Top_20_Stations_Part2.png" width="750">
+</a>
 
-```
-![Top Stations](images/top_stations.png)
-![Trip Duration Boxplot](images/trip_duration_boxplot.png)
-```
+#### Trip Duration Differences
+<a href="Images/CitiBike_Trip_Duration.png" target="_blank">
+  <img src="Images/CitiBike_Trip_Duration.png" width="750">
+</a>
 
 ---
 
@@ -100,16 +104,17 @@ Add visuals here:
 To understand spatial demand, I used Kepler.gl to map station‑to‑station routes.  
 The full dataset was too large to render, so I created a subset of the top 500 most frequent routes, which still captured major movement patterns.
 
-Filtering these routes revealed:  
+Filtering these routes revealed:
 - Geographic hotspots  
 - High‑traffic corridors  
 - Areas with recurring availability strain  
 
-Add visual here:
+### Geospatial Routes  
+*(Replace this placeholder once your actual PNG is exported)*
 
-```
-![Geospatial Routes](images/geospatial_routes.png)
-```
+<a href="Images/repo_folder_structure.png" target="_blank">
+  <img src="Images/repo_folder_structure.png" width="750">
+</a>
 
 ---
 
@@ -127,7 +132,7 @@ This was my first time transitioning from a notebook workflow into a full Python
 ## Deployment
 The full dataset exceeded Streamlit Cloud’s limits, so I created reduced subsets containing only the fields needed for each page.
 
-Additional deployment steps included:  
+Additional deployment steps included:
 - Creating a `requirements.txt` file for consistent package installation  
 - Configuring Streamlit Cloud to auto‑update on GitHub pushes  
 
