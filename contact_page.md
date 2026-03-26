@@ -1,3 +1,8 @@
+<nav style="margin-bottom: 20px;">
+  <a href="/Portfolio/">Home</a> |
+  <a href="/Portfolio/about_me">About</a> |
+  <a href="/Portfolio/projects">Projects</a> |
+  <a href="/Portfolio/contact_page">Contact</a>
 # Contact
 
 If you’d like to connect or discuss opportunities, you can reach me here:

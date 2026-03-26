@@ -1,3 +1,8 @@
+<nav style="margin-bottom: 20px;">
+  <a href="/Portfolio/">Home</a> |
+  <a href="/Portfolio/about_me">About</a> |
+  <a href="/Portfolio/projects">Projects</a> |
+  <a href="/Portfolio/contact_page">Contact</a>
 # About Me
 
 I’m Chase, a data analyst who enjoys working with real‑world data and turning it into clear, usable insights. I like solving practical problems, building clean workflows, and creating analytics that teams can trust.
