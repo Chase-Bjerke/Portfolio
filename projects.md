@@ -11,14 +11,19 @@ A selection of analytics and data projects demonstrating SQL, Python, visualizat
 
 ---
 
-### Instacart Grocery Basket Analysis
-[View Project](/Portfolio/Instacart_Grocery_Basket_Analysis)
-
-### Coffee Quality Analysis
-[View Project](/Portfolio/Coffee_Quality_Analysis)
-
-### CitiBike Dashboard
+### CitiBike Dashboard (Case Study)
 [View Project](/Portfolio/CitiBike_Dashboard)
 
-### Rockbuster Stealth SQL Analysis
+---
+
+### Instacart Grocery Basket Analysis  
+**Project Summary**  
+[View Project](/Portfolio/Instacart_Grocery_Basket_Analysis)
+
+### Coffee Quality Analysis  
+**Project Summary**  
+[View Project](/Portfolio/Coffee_Quality_Analysis)
+
+### Rockbuster Stealth SQL Analysis  
+**Project Summary**  
 [View Project](/Portfolio/Rockbuster_Stealth_SQL_Analysis)
