@@ -1,3 +1,8 @@
+---
+layout: page
+title: About Me
+---
+
 <nav style="margin-bottom: 20px;">
   <a href="/Portfolio/">Home</a> |
   <a href="/Portfolio/about_me">About</a> |
