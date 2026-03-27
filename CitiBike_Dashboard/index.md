@@ -85,8 +85,8 @@ I created focused slices of the data—daily ridership, station demand, and ride
 A major insight emerged when comparing daily ridership with temperature. Viewed separately, both showed similar seasonal shapes. Combined in a dual‑axis chart, the relationship became clear.
 
 ### Daily Rides vs Temperature
-<a href="Images/Line_Chart_CitiBike_Daily_Rides_vs_Weather.png" target="_blank">
-  <img src="Images/Line_Chart_CitiBike_Daily_Rides_vs_Weather.png" width="750">
+<a href="Images/Line_Chart_CitiBike_Daily_Rides_vs_Weather_light.png" target="_blank">
+  <img src="Images/Line_Chart_CitiBike_Daily_Rides_vs_Weather_light.png" width="750">
 </a>
 
 ---
@@ -100,8 +100,8 @@ I used a tiered approach to build the visuals:
 ### Key Visuals
 
 #### Top 20 Stations
-<a href="Images/CitiBike_Top_20_Stations_Part2.png" target="_blank">
-  <img src="Images/CitiBike_Top_20_Stations_Part2.png" width="750">
+<a href="Images/CitiBike_Top_20_Stations_light.png" target="_blank">
+  <img src="Images/CitiBike_Top_20_Stations_light.png" width="750">
 </a>
 
 #### Trip Duration Differences
