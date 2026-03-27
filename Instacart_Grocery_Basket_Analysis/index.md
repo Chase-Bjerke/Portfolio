@@ -1,14 +1,8 @@
 ---
 layout: page
-title: About Me
+title: "Instacart Grocery Basket Analysis"
+permalink: /Instacart_Grocery_Basket_Analysis/
 ---
-
-<nav style="margin-bottom: 20px;">
-  <a href="/Portfolio/">Home</a> |
-  <a href="/Portfolio/about_me">About</a> |
-  <a href="/Portfolio/projects">Projects</a> |
-  <a href="/Portfolio/contact_page">Contact</a>
-</nav>
 
 # Instacart – Grocery Basket Analysis — Summary
 
@@ -105,7 +99,3 @@ Personas show distinct ordering patterns by day and time, supporting targeted ma
 
 ## Project Links
 - **GitHub Repository:** https://github.com/Chase-Bjerke/instacart-basket-analysis-python
-
-<div style="margin-top: 40px;">
-  <a href="/Portfolio/projects">← Back to Projects</a>
-</div>

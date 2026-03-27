@@ -1,14 +1,8 @@
 ---
 layout: page
-title: About Me
+title: "About Me"
+permalink: /about_me/
 ---
-
-<nav style="margin-bottom: 20px;">
-  <a href="/Portfolio/">Home</a> |
-  <a href="/Portfolio/about_me">About</a> |
-  <a href="/Portfolio/projects">Projects</a> |
-  <a href="/Portfolio/contact_page">Contact</a>
-</nav>
 
 # About Me
 

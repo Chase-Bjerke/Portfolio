@@ -1,14 +1,8 @@
 ---
 layout: page
-title: About Me
+title: "Coffee Quality Analysis"
+permalink: /Coffee_Quality_Analysis/
 ---
-
-<nav style="margin-bottom: 20px;">
-  <a href="/Portfolio/">Home</a> |
-  <a href="/Portfolio/about_me">About</a> |
-  <a href="/Portfolio/projects">Projects</a> |
-  <a href="/Portfolio/contact_page">Contact</a>
-</nav>
 
 # Global Coffee Quality Analysis — Summary
 
@@ -108,7 +102,3 @@ Roast‑level distributions showed that medium roasts consistently achieved the 
 ## Project Links
 - **GitHub Repository:** https://github.com/Chase-Bjerke/coffee-quality-analysis  
 - **Tableau Storyboard:** https://public.tableau.com/app/profile/chase.bjerke/viz/GlobalCoffeeQualityAnalysis/GlobalCoffeeQuality
-
-<div style="margin-top: 40px;">
-  <a href="/Portfolio/projects">← Back to Projects</a>
-</div>

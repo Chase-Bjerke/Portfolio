@@ -1,14 +1,8 @@
 ---
 layout: page
-title: About Me
+title: "CitiBike Dashboard (Case Study)"
+permalink: /CitiBike_Dashboard/
 ---
-
-<nav style="margin-bottom: 20px;">
-  <a href="/Portfolio/">Home</a> |
-  <a href="/Portfolio/about_me">About</a> |
-  <a href="/Portfolio/projects">Projects</a> |
-  <a href="/Portfolio/contact_page">Contact</a>
-</nav>
 
 # CitiBike Strategic Dashboard Analysis  
 **Project Type:** Descriptive Analysis  
@@ -174,7 +168,3 @@ Additional deployment steps included:
 
 ## Summary
 This analysis provides a clear view of how temperature, station demand, and rider behavior shape CitiBike’s operational challenges. The final Streamlit dashboard gives the strategy team an interactive way to explore these patterns and identify where capacity improvements will have the greatest impact.
-
-<div style="margin-top: 40px;">
-  <a href="/Portfolio/projects">← Back to Projects</a>
-</div>
