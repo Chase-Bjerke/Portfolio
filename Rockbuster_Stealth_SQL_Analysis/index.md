@@ -38,11 +38,10 @@ Key descriptive metrics:
 
 These metrics inform pricing strategy, inventory planning, and customer engagement.
 
-Add visual here:
-
-```
-![Rental Metrics](images/rental_metrics.png)
-```
+### Rental Metrics  
+<a href="Images/rental_metrics.png" target="_blank">
+  <img src="Images/rental_metrics.png" width="600">
+</a>
 
 ---
 
@@ -56,11 +55,10 @@ Top revenue markets:
 
 These regions represent the strongest launch targets for Rockbuster’s digital platform.
 
-Add visual here:
-
-```
-![Top Revenue Markets](images/top_markets.png)
-```
+### Top Revenue Markets  
+<a href="Images/Revenue_Top_10_Countries.png" target="_blank">
+  <img src="Images/Revenue_Top_10_Countries.png" width="600">
+</a>
 
 ---
 
@@ -68,11 +66,10 @@ Add visual here:
 China, the U.S., and India also lead in total payments from high-lifetime-value customers.  
 This overlap reinforces their importance for digital expansion and long-term profitability.
 
-Add visual here:
-
-```
-![Lifetime Value by Country](images/lifetime_value.png)
-```
+### Lifetime Value by Country  
+<a href="Images/Bar_Chart_High_Lifetime_Customers_by_Country.png" target="_blank">
+  <img src="Images/Bar_Chart_High_Lifetime_Customers_by_Country.png" width="600">
+</a>
 
 ---
 
@@ -93,4 +90,5 @@ Add visual here:
 ---
 
 ## Project Links
-- GitHub Repository  
+- **GitHub Repository:** https://github.com/Chase-Bjerke/rockbuster-stealth-sql-analysis  
+- **Tableau Visualizations:** https://public.tableau.com/app/profile/chase.bjerke/viz/RockbusterStealthDataAnalysisVisualizations/CustomerCountTop10Countries  

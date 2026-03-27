@@ -25,6 +25,10 @@ The analysis focused on understanding station demand, seasonal patterns, rider b
 I began by reviewing the project brief, outlining the workflow, and building a two‑month plan in Trello.  
 I then created a GitHub repository, set up SSH authentication, and built a clean folder structure to keep the project organized as the dataset grew.
 
+<a href="Images/repo_folder_structure.png" target="_blank">
+  <img src="Images/repo_folder_structure.png" width="400">
+</a>
+
 ---
 
 ## Business Questions
@@ -109,12 +113,12 @@ Filtering these routes revealed:
 - High‑traffic corridors  
 - Areas with recurring availability strain  
 
-### Geospatial Routes  
-*(Replace this placeholder once your actual PNG is exported)*
+### Geospatial Routes
 
-<a href="Images/repo_folder_structure.png" target="_blank">
-  <img src="Images/repo_folder_structure.png" width="750">
-</a>
+The geospatial route map is fully interactive inside the dashboard.  
+To explore hotspots, route density, and spatial patterns with filters and zoom controls, view the live version here:
+
+➡️ <a href="https://citibike-4app9pxamtuuyrqmhstmttp.streamlit.app/" target="_blank">Open the Interactive Geospatial Map</a>
 
 ---
 

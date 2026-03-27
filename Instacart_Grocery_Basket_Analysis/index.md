@@ -31,11 +31,15 @@ This analysis focuses on:
 Most orders occur between 9 AM and 3 PM, with a mid‑morning peak.  
 Spending spikes at 3 AM, suggesting opportunities for premium product targeting during off‑peak hours.
 
-Add visual here:
+### Orders by Hour of Day  
+<a href="Images/Bar_Chart_Order_Volume_by_Hour_of_Day.png" target="_blank">
+  <img src="Images/Bar_Chart_Order_Volume_by_Hour_of_Day.png" width="600">
+</a>
 
-```
-![Orders by Time of Day](images/orders_by_time.png)
-```
+### Average Expenditure by Hour of Day  
+<a href="Images/Line_Chart_Average_Expenditure_by_Hour_of_Day.png" target="_blank">
+  <img src="Images/Line_Chart_Average_Expenditure_by_Hour_of_Day.png" width="600">
+</a>
 
 ---
 
@@ -43,11 +47,15 @@ Add visual here:
 Mid‑range products dominate order volume.  
 Top‑performing departments include Produce, Dairy & Eggs, and Snacks.
 
-Add visual here:
+### Orders by Price Range  
+<a href="Images/Bar_Chart_Distribution_of_Orders_by_Price_Range.png" target="_blank">
+  <img src="Images/Bar_Chart_Distribution_of_Orders_by_Price_Range.png" width="600">
+</a>
 
-```
-![Top Departments](images/top_departments.png)
-```
+### Top 5 Departments by Product Count  
+<a href="Images/Bar_Chart_Top_5_Departments_by_Product_Count.png" target="_blank">
+  <img src="Images/Bar_Chart_Top_5_Departments_by_Product_Count.png" width="600">
+</a>
 
 ---
 
@@ -55,11 +63,15 @@ Add visual here:
 Regular customers drive the majority of order volume.  
 Personas show distinct ordering patterns by day and time, supporting targeted marketing and retention strategies.
 
-Add visual here:
+### Customer Loyalty Distribution  
+<a href="Images/Bar_Chart_Customer_Loyalty_Distribution.png" target="_blank">
+  <img src="Images/Bar_Chart_Customer_Loyalty_Distribution.png" width="600">
+</a>
 
-```
-![Customer Segments](images/customer_segments.png)
-```
+### Top Order Segments by Day and Persona  
+<a href="Images/Tree_Map_Top_10_Order_Segmentss_by_Day_and_Persona.png" target="_blank">
+  <img src="Images/Tree_Map_Top_10_Order_Segmentss_by_Day_and_Persona.png" width="600">
+</a>
 
 ---
 
@@ -80,4 +92,4 @@ Add visual here:
 ---
 
 ## Project Links
-- GitHub Repository  
+- **GitHub Repository:** https://github.com/Chase-Bjerke/instacart-basket-analysis-python  
