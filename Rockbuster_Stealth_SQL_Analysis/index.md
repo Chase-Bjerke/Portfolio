@@ -1,3 +1,10 @@
+<nav style="margin-bottom: 20px;">
+  <a href="/Portfolio/">Home</a> |
+  <a href="/Portfolio/about_me">About</a> |
+  <a href="/Portfolio/projects">Projects</a> |
+  <a href="/Portfolio/contact_page">Contact</a>
+</nav>
+
 # Rockbuster Stealth Data Analysis — Summary
 
 ## Overview
@@ -91,4 +98,8 @@ This overlap reinforces their importance for digital expansion and long-term pro
 
 ## Project Links
 - **GitHub Repository:** https://github.com/Chase-Bjerke/rockbuster-stealth-sql-analysis  
-- **Tableau Visualizations:** https://public.tableau.com/app/profile/chase.bjerke/viz/RockbusterStealthDataAnalysisVisualizations/CustomerCountTop10Countries  
+- **Tableau Visualizations:** https://public.tableau.com/app/profile/chase.bjerke/viz/RockbusterStealthDataAnalysisVisualizations/CustomerCountTop10Countries
+
+<div style="margin-top: 40px;">
+  <a href="/Portfolio/projects">← Back to Projects</a>
+</div>

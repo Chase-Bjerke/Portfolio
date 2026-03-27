@@ -1,3 +1,10 @@
+<nav style="margin-bottom: 20px;">
+  <a href="/Portfolio/">Home</a> |
+  <a href="/Portfolio/about_me">About</a> |
+  <a href="/Portfolio/projects">Projects</a> |
+  <a href="/Portfolio/contact_page">Contact</a>
+</nav>
+
 # CitiBike Strategic Dashboard Analysis  
 **Project Type:** Descriptive Analysis  
 **Role:** Lead Analyst  
@@ -26,7 +33,7 @@ I began by reviewing the project brief, outlining the workflow, and building a t
 I then created a GitHub repository, set up SSH authentication, and built a clean folder structure to keep the project organized as the dataset grew.
 
 <a href="Images/repo_folder_structure.png" target="_blank">
-  <img src="Images/repo_folder_structure.png" width="400">
+  <img src="Images/repo_folder_structure.png" width="250">
 </a>
 
 ---
@@ -118,6 +125,8 @@ Filtering these routes revealed:
 The geospatial route map is fully interactive inside the dashboard.  
 To explore hotspots, route density, and spatial patterns with filters and zoom controls, view the live version here:
 
+**Navigation:** Once the dashboard loads, click **Routes** in the left sidebar to open the geospatial map.
+
 ➡️ <a href="https://citibike-4app9pxamtuuyrqmhstmttp.streamlit.app/" target="_blank">Open the Interactive Geospatial Map</a>
 
 ---
@@ -160,3 +169,7 @@ Additional deployment steps included:
 
 ## Summary
 This analysis provides a clear view of how temperature, station demand, and rider behavior shape CitiBike’s operational challenges. The final Streamlit dashboard gives the strategy team an interactive way to explore these patterns and identify where capacity improvements will have the greatest impact.
+
+<div style="margin-top: 40px;">
+  <a href="/Portfolio/projects">← Back to Projects</a>
+</div>
