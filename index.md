@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Home"
+title: "Chase Bjerke"
 ---
 
 <nav style="margin-bottom: 20px;">
@@ -10,9 +10,7 @@ title: "Home"
   <a href="/Portfolio/contact_page/">Contact</a>
 </nav>
 
-# Chase Bjerke
-
-### Data Analytics Portfolio
+# Data Analytics Portfolio
 
 I take messy data and turn it into something teams can understand and act on.
 
