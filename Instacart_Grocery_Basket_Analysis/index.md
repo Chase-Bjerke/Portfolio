@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Instacart Grocery Basket Analysis"
 permalink: /Instacart_Grocery_Basket_Analysis/
 ---

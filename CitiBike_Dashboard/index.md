@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "CitiBike Dashboard (Case Study)"
 permalink: /CitiBike_Dashboard/
 ---

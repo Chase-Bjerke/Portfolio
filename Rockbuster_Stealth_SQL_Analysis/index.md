@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Rockbuster Stealth SQL Analysis"
 permalink: /Rockbuster_Stealth_SQL_Analysis/
 ---

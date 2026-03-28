@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Coffee Quality Analysis"
 permalink: /Coffee_Quality_Analysis/
 ---
