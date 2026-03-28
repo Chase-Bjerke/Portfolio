@@ -4,6 +4,13 @@ title: "Contact"
 permalink: /contact_page/
 ---
 
+<nav style="margin-bottom: 20px;">
+  <a href="/Portfolio/" style="margin-right: 15px;">Home</a>
+  <a href="/Portfolio/about_me/" style="margin-right: 15px;">About</a>
+  <a href="/Portfolio/projects/" style="margin-right: 15px;">Projects</a>
+  <a href="/Portfolio/contact_page/">Contact</a>
+</nav>
+
 # Contact
 
 If you'd like to connect or discuss opportunities, you can reach me here:
