@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "CitiBike Dashboard (Case Study)"
+title: "CitiBike Strategic Dashboard Analysis (Case Study)"
 permalink: /CitiBike_Dashboard/
 ---
 
@@ -11,7 +11,6 @@ permalink: /CitiBike_Dashboard/
   <a href="/Portfolio/contact_page/">Contact</a>
 </nav>
 
-# CitiBike Strategic Dashboard Analysis  
 **Project Type:** Descriptive Analysis  
 **Role:** Lead Analyst  
 **Timeline:** 2 Months  

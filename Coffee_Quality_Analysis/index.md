@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Coffee Quality Analysis"
+title: "Coffee Quality Analysis - Summary"
 permalink: /Coffee_Quality_Analysis/
 ---
 
@@ -10,8 +10,6 @@ permalink: /Coffee_Quality_Analysis/
   <a href="/Portfolio/projects/" style="margin-right: 15px;">Projects</a>
   <a href="/Portfolio/contact_page/">Contact</a>
 </nav>
-
-# Global Coffee Quality Analysis — Summary
 
 ## Overview
 This project analyzes global coffee quality scores from the Coffee Quality Institute to understand how roast level, flavor attributes, and country of origin influence overall cupping performance. Using exploratory analysis, regression, and clustering, the project identifies flavor‑driven quality patterns and defines a three‑tier segmentation system for coffee quality.

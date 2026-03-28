@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Rockbuster Stealth SQL Analysis"
+title: "Rockbuster Stealth SQL Analysis - Summary"
 permalink: /Rockbuster_Stealth_SQL_Analysis/
 ---
 
@@ -10,8 +10,6 @@ permalink: /Rockbuster_Stealth_SQL_Analysis/
   <a href="/Portfolio/projects/" style="margin-right: 15px;">Projects</a>
   <a href="/Portfolio/contact_page/">Contact</a>
 </nav>
-
-# Rockbuster Stealth Data Analysis — Summary
 
 ## Overview
 Rockbuster Stealth LLC is a global movie rental company transitioning from physical stores to an online streaming platform. This analysis supports their digital rollout by uncovering insights from internal data related to revenue, customer distribution, and rental behavior.

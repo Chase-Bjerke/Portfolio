@@ -11,8 +11,6 @@ permalink: /about_me/
   <a href="/Portfolio/contact_page/">Contact</a>
 </nav>
 
-# About Me
-
 I’m Chase, a data analyst who enjoys working with real‑world data and turning it into clear, usable insights. I like solving practical problems, building clean workflows, and creating analytics that teams can trust.
 
 Before moving into data, I worked in the craft beer industry and later in public works. Those roles taught me how operations function day‑to‑day, how messy data can get, and how important reliable information is when making decisions. That experience shapes how I approach analysis today: practical, organized, and focused on clarity.

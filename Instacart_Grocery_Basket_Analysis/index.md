@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Instacart Grocery Basket Analysis"
+title: "Instacart Grocery Basket Analysis - Summary"
 permalink: /Instacart_Grocery_Basket_Analysis/
 ---
 
@@ -10,8 +10,6 @@ permalink: /Instacart_Grocery_Basket_Analysis/
   <a href="/Portfolio/projects/" style="margin-right: 15px;">Projects</a>
   <a href="/Portfolio/contact_page/">Contact</a>
 </nav>
-
-# Instacart – Grocery Basket Analysis — Summary
 
 ## Overview
 Instacart is a leading online grocery platform seeking deeper insight into customer purchasing behavior to refine marketing strategy and improve engagement. This analysis explores ordering patterns, spending behavior, product popularity, and customer segmentation to support more targeted and effective campaigns.

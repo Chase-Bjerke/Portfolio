@@ -11,8 +11,6 @@ permalink: /contact_page/
   <a href="/Portfolio/contact_page/">Contact</a>
 </nav>
 
-# Contact
-
 If you'd like to connect or discuss opportunities, you can reach me here:
 
 - <a href="mailto:Chase.Bjerke@gmail.com" target="_blank">Chase.Bjerke@gmail.com</a>

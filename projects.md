@@ -11,8 +11,6 @@ permalink: /projects/
   <a href="/Portfolio/contact_page/">Contact</a>
 </nav>
 
-# Projects
-
 A selection of analytics and data projects demonstrating SQL, Python, visualization, and dashboard development.
 
 ### CitiBike Dashboard (Case Study)
